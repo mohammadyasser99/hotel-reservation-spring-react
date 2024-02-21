@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mohamedyasser.lakesidehotel.LakeSideHotelApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.602 s - in com.mohamedyasser.lakesidehotel.LakeSideHotelApplicationTests
